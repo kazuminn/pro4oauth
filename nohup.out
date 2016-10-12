@@ -1,0 +1,25 @@
+2016/10/11 14:49:03 [1;34m[I] [asm_amd64.s:1998] http server Running on http://:80[0m
+2016/10/11 14:49:03 [1;35m[C] [asm_amd64.s:1998] ListenAndServe:  listen tcp :80: bind: permission denied[0m
+2016/10/11 15:00:57 [1;34m[I] [asm_amd64.s:1998] http server Running on http://:80[0m
+2016/10/11 15:00:57 [1;35m[C] [asm_amd64.s:1998] ListenAndServe:  listen tcp :80: bind: address already in use[0m
+2016/10/11 15:02:24 [1;34m[I] [asm_amd64.s:1998] http server Running on http://:800[0m
+2016/10/11 03:38:24 [1;34m[I] [asm_amd64.s:2086] http server Running on http://:8080[0m
+2016/10/11 03:40:16 [1;34m[I] [asm_amd64.s:2086] http server Running on http://:80[0m
+2016/10/11 03:40:51 [1;34m[D] [server.go:2202] |119.224.169.188|[43m 404 [0m|     346.59µs| nomatch|[44m GET     [0m /  [0m
+2016/10/11 03:40:58 [1;34m[D] [server.go:2202] |119.224.169.188|[43m 404 [0m|    268.117µs| nomatch|[44m GET     [0m /  [0m
+
+2016/10/11 03:41:06 [1;34m[D] [server.go:2202] |119.224.169.188|[42m 200 [0m| 537.011482ms|   match|[44m GET     [0m /home   r:/home[0m
+2016/10/11 03:41:11 [1;34m[D] [server.go:2202] |119.224.169.188|[47m 302 [0m|     52.717µs|   match|[44m GET     [0m /login   r:/login[0m
+2016/10/11 03:41:12 [1;34m[D] [server.go:2202] |119.224.169.188|[43m 404 [0m|    210.549µs| nomatch|[44m GET     [0m /  [0m
+2016/10/11 03:43:12 [1;34m[D] [server.go:2202] |119.224.169.188|[43m 404 [0m|     217.29µs| nomatch|[44m GET     [0m /  [0m
+2016/10/11 03:44:00 [1;34m[I] [asm_amd64.s:2086] http server Running on http://:80[0m
+2016/10/11 03:44:11 [1;34m[D] [server.go:2202] |119.224.169.188|[47m 302 [0m|     91.789µs|   match|[44m GET     [0m /login   r:/login[0m
+AQDJ9iWHPZE1eUgsVL_N2ynvcPjyhPx6yP5zhhzQUdPZ9n_aDHtroeAOhnPMjlWmlqPkL9c1xGu5N8X5dnXyWA2RC0Y1UUcV4lMtMQE0GcmKNWmV0KGBMhBmzST_d_TYpZkLIchzdP-NMXpPtjI-Cz86mJHmarpvcxF4dFvPRMmYcETm3nrh6wllsCqscRWeSI9wbSN93tvQMnOXNRcTl6NytYkGre0Ru5qHcles6a__9q_0xuPHmsvvCplon_s5gwkwsN54TwCEaLWLT-B1PRc_Mc1pyZ1Ob-DzXa5naAdU6ZTuAxkK1J8Bv5J9ctaA5GT_Fi6w-_HbTAyfmZ3bjJq3
+2016/10/11 03:44:13 [1;34m[D] [server.go:2202] |119.224.169.188|[42m 200 [0m| 526.724668ms|   match|[44m GET     [0m /home   r:/home[0m
+2016/10/11 03:45:05 [1;34m[D] [server.go:2202] |119.224.169.188|[47m 302 [0m|     50.257µs|   match|[44m GET     [0m /login   r:/login[0m
+AQCWMqL-Ec8mYZe9V8fOGm7qoOqZYE-269ZvxdUjR2VEHZ6lL5SRRtJn3qBjWVgNqnaS_BXlxtiOX242BosF7LQ-6ID2UbRBybmDonrdZs_WA1O9UKywxm14ydi8XZ9QJ76JBiqmNv25WDWkWJr3iuFVjflMlKlr3uRfb7OQ1wt6yAclORaD6y0nP88q6U6NcE0twJPAveJT-uCXggq_jnT9ZFOXu-tYeDSWEvvGimbt8KKlDJc_bLmZ_ye9VIrNzG-ZV4aU1JbPxVO5US4oae8Ywlsr8XAYeQHh0fufSk3ecCrqOP3PykcedFAVVgh8A-3hvZrWK9mz_iLUSEkGqbNq
+2016/10/11 03:45:11 [1;34m[D] [server.go:2202] |119.224.169.188|[42m 200 [0m|  146.64799ms|   match|[44m GET     [0m /home   r:/home[0m
+2016/10/11 03:46:43 [1;34m[I] [asm_amd64.s:2086] http server Running on http://:80[0m
+2016/10/11 03:47:23 [1;34m[D] [server.go:2202] |119.224.169.188|[47m 302 [0m|      90.61µs|   match|[44m GET     [0m /login   r:/login[0m
+AQBr-q8u7TlqDOhG0kSPwDJsBBR2yOgfmXVtKsPgfWyKuTKVPOan8oA2psbLzlMKgHFF-DGidBSjXI5bNHSOloqxrDcwhau2xPLiY5dO8-7YRZAnR6HLXOnnDBg6B4bDvIt4o6FYj7OA_btbfjBxFvDMT73AchCN6-GBWu_ManZdIwmRJn_1HJwBjTij1aKlEWhA4z8P4s7rhPN9h9-eDhoGHSD3FDqqdCHnOiiHdiMllLy1FDymNZ4_sJFxHHPrjPSsm0HxieepPF1H6CSeuMZvpxLPlCvJFcpgxT_0WxYq1cIKdJjmDZlusf-YTyKbhTzA5x4JYHxFXPwdCHdMU1zO
+2016/10/11 03:47:28 [1;34m[D] [server.go:2202] |119.224.169.188|[42m 200 [0m| 537.930565ms|   match|[44m GET     [0m /home   r:/home[0m
